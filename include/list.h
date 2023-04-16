@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <unordered_map>
 #include <exception>
+#include <stdexcept>
 using namespace std;
 template <class T> class List{
 private:
