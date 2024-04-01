@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.10)
 
 option(BUILD_SAMPLES ON)
 
-set(PROJECT_NAME list)
+set(PROJECT_NAME smart_ptr)
 project(${PROJECT_NAME})
 
 include(CTest)
